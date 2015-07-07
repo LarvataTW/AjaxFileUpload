@@ -1,0 +1,16 @@
+{
+  "name": "AjaxFileUpload",
+  "version": "0.1.0",
+  "homepage": "https://github.com/LarvataTW/AjaxFileUpload",
+  "authors": [
+    "David Hancock <davgothic@gmail.com>"
+  ],
+  "description": "A jQuery plugin that simulates asynchronous file uploads.",
+  "main": "jquery.ajaxfileupload.js",
+  "keywords": [
+    "ajax",
+    "file",
+    "upload"
+  ],
+  "license": "MIT"
+}
